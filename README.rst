@@ -1,0 +1,5 @@
+**add following to your django settings:**
+
+    DJANGO_STRAVA_CLIENT_ID = [YOUR STRAVA CLIENT ID]
+
+    DJANGO_STRAVA_CLIENT_SECRET = [YOUR STRAVA CLIENT SECRET]

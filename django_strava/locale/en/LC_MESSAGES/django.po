@@ -1,0 +1,22 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: django_strava\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-27 14:09+0200\n"
+"PO-Revision-Date: 2016-07-27 14:11+0200\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.5\n"
+
+#: templates/account.html:6
+msgid "User Profile."
+msgstr "User Profile"
