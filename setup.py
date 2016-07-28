@@ -16,9 +16,9 @@ setup(
     include_package_data=True,
     license='BSD License',  # example license
     install_requires = REQUIRES,
-    description='A simple Django app to conduct Web-based polls.',
+    description='A Django App to show Strava Data.',
     long_description=README,
-    url='https://www.example.com/',
+    url='https://github.com/pfitzer/django-strava',
     author='Michael Pfister',
     author_email='michael@mp-development.de',
     classifiers=[

@@ -1,4 +1,12 @@
+exclude .idea
+exclude .gitignore
 include LICENSE
 include README.rst
+include setup.cfg
 recursive-include django_strava/static *
 recursive-include django_strava/templates *
+prune .cache
+prune .git
+prune build
+prune dist
+recursive-exclude *.egg-info *
